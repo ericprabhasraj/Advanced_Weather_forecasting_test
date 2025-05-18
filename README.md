@@ -76,8 +76,10 @@ Link: [https://682712c9069dda1f3c087666--tranquil-yeot-670bf6.netlify.app/](http
 - View RMSE values to understand forecast accuracy
 
 ### 🖼️ Web App Interface Screenshots
-![Home Page](images/home_page.jpg)
-![Prediction Graph](images/prediction_graph.jpg)
+![Home Page](/home_page.jpg)
+![Prediction Graph](/prediction_graph.jpg)
+![Prediction Table](table_image.jpg)
+![RMSE Values](rmse_image.jpg)
 
 ## 📁 Project Structure
 ```
