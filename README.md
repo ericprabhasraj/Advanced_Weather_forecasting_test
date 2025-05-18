@@ -43,8 +43,8 @@ Each training session generates:
 - `training_*_predictions.csv`
 
 ### 🖼️ Training Result Visualizations
-![Rainfall Training](Rainfall Training.jpg)
-![Precipitation Training](Precipitation Training.jpg)
+![Rainfall Training](Rainfall_Training.jpg)
+![Precipitation Training](Precipitation_Training.jpg)
 
 ### 🔮 Prediction Generation
 Run:
