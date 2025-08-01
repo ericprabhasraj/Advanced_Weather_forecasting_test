@@ -175,17 +175,5 @@ MAUSAM/
 - **Visualization**: Matplotlib
 - **Web Hosting**: Netlify
 
-## 🔐 License
-```
-© 2025 Yoshitha-28
-
-All rights reserved.
-
-Reproduction, redistribution, or use of any code/model/data from this repository is strictly prohibited without prior written permission.
-```
-
-## 🙋‍♀️ Author
-**Yoshitha-28**  
-GitHub: [@Yoshitha-28](https://github.com/Yoshitha-28)
 ```
 
