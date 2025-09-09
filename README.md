@@ -6,7 +6,7 @@ ISRO MAUSAM is a comprehensive weather forecasting system that leverages machine
 
 ### Key Innovations:
 - **Hybrid Model Architecture**: Combines the strengths of CNNs for spatial feature extraction and LSTMs for temporal pattern recognition
-- **Ensemble Learning**: Integrates multiple algorithms (XGBoost, Random Forest) for robust predictions
+- **Ensemble Learning**: Integrates multiple algorithms (XGBoost, Random Forest) for robust predictions in it 
 - **Temporal Forecasting**: Specialized models for 1-hour, 2-hour, and 3-hour prediction horizons
 - **Web Visualization**: Interactive interface for exploring forecast accuracy across different timeframes
 
@@ -37,7 +37,7 @@ This script combines:
 - 🧪 CatBoost
 - 💡 LightGBM
 
-After 23 different experimental trials, this configuration produced the best results:
+After 23 different experimental trials, this configuration to produced the best results:
 - R² score (Rainfall): 0.779
 - R² score (Precipitation): 0.873
   
